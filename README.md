@@ -1,8 +1,8 @@
-# QUAISWAP
-BUILD 
-/home/user/some-project> npm install --save quais 
-<script src="https://cdn.quais.io/lib/quais-1.0.4.umd.min.js" type="text/javascript">
-</script> 
-<script type="module">
-    import { quais } from "https://cdn.quais.io/lib/quais-1.0.4.esm.min.js";
-</script>
+to the quai team or any developer please help my project I need to learn
+Decentralized Exchange: QUAISWAP enables users to exchange tokens directly from their wallets without the need to deposit funds into a central exchange.
+
+Support for Multiple Tokens: QUAISWAP supports various tokens running on the QuaiChain, providing flexibility in the choice of assets that can be exchanged.
+
+Automated Liquidity Ratio: QUAISWAP utilizes an Automated Market Maker (AMM) model to determine asset prices and ensure adequate liquidity.
+
+Ecosystem Growth: This protocol is designed to facilitate the growth of the QuaiChain ecosystem by providing a means for efficient token exchange
